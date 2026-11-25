@@ -1,3 +1,3 @@
-2e0cae14ee3362ac46ce13606d2ed78664eba46f707f5924ff904880e02d15e6  Facturescu-1.0.0-mac-apple.zip
-b6d07f0abd287f87258e9e52edb25e57389362079c92101aa8cb355245a5c713  Facturescu-1.0.0-mac-intel.zip
-8269bb3922e8e01318abc8a9a9da6338e0e1a400fefe40bb5e0cbac0f4e6915c  Facturescu-Setup-1.0.0.exe
+3ca2039bc9abd7351f2fe6ece8139c6ea53347efe29832cf80509e277a5e19f6  Facturescu-1.0.0-mac-apple.zip
+c60f65298d394c9c19eaebe3a3b9332bd2ab0821cb55c0a22891a95ee32aabc5  Facturescu-1.0.0-mac-intel.zip
+50aa61c53853ad7db247b56451ea192b77f1036ee7d277602d1706698277db66  Facturescu-Setup-1.0.0.exe
