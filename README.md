@@ -7,9 +7,20 @@ Program de facturare **gratuit** pentru Windows și Mac, cu trimitere în **RO e
 - trimitere automată în SPV, starea facturilor și arhiva semnată de ANAF;
 - facturile primite de la furnizori, aduse din SPV;
 - chitanțe cu suma în litere;
-- export lunar pentru contabil (PDF, XML, registre pentru Excel).
+- export lunar pentru contabil (PDF, XML, registre pentru Excel);
+- mai multe firme în același program, fiecare cu facturile și documentele ei.
 
 Datele rămân pe calculatorul tău. Facturile nu trec prin serverele noastre.
+
+## Conectarea la SPV, o singură dată
+
+1. Îți faci cont pe [www.anaf.ro/InregOauth/](https://www.anaf.ro/InregOauth/) (cu „/” la final), îl activezi din e-mailul de la ANAF și te loghezi cu utilizatorul și parola.
+2. La **Editare profil Oauth** completezi: denumire `Facturescu`, Callback URL `https://localhost/facturescu-anaf`, serviciu **E-Factura**, apoi apeși **Generare Client ID**.
+3. Copiezi Client ID și Client Secret în Facturescu, la Setări → Conectare SPV.
+4. **Aștepți 10 minute**, până activează ANAF aplicația. Altfel conectarea dă eroarea „access_denied”.
+5. Introduci tokenul, apeși **Conectează** și alegi certificatul firmei.
+
+Programul te ghidează pas cu pas.
 
 ## Descărcare
 
