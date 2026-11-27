@@ -8,7 +8,9 @@ Program de facturare **gratuit** pentru Windows și Mac, cu trimitere în **RO e
 - facturile primite de la furnizori, aduse din SPV;
 - chitanțe cu suma în litere;
 - export lunar pentru contabil (PDF, XML, registre pentru Excel);
-- mai multe firme în același program, fiecare cu facturile și documentele ei.
+- mai multe firme în același program, fiecare cu facturile și documentele ei;
+- logo-ul firmei și trei modele de factură (Clasic, Modern, Compact), cu previzualizare;
+- catalog de produse cu cod CPV din lista oficială, trimis în XML-ul e-Factura.
 
 Datele rămân pe calculatorul tău. Facturile nu trec prin serverele noastre.
 
